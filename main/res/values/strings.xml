@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MakeItStick</string>
+    <string name="size18">18</string>
+    <string name="size24">24</string>
+    <string name="size30">30</string>
+    <string name="typeface">F</string>
+    <string name="size1.2">1/2</string>
+    <string name="size1.4">1/4</string>
+    <string name="size1.8">1/8</string>
+    <string name="miEdit">edit</string>
+    <string name="miDelete">delete</string>
+    <string name="miClearFilter">clear filter</string>
+    <string name="miSearch">search</string>
+    <string name="miSort">sort</string>
+    <string name="searchImportant">only important</string>
+    <string name="searchWithAlarm">only with alarm</string>
+</resources>

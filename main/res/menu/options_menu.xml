@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/miClearFilter"
+        android:icon="@drawable/ic_clear_white_48dp"
+        android:title="@string/miClearFilter"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/miSearch"
+        android:icon="@drawable/ic_search_white_48dp"
+        android:title="@string/miSearch"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/miSort"
+        android:icon="@drawable/ic_compare_arrows_white_48dp"
+        android:title="@string/miSort"
+        app:showAsAction="always" />
+
+</menu>
